@@ -1,9 +1,5 @@
-// Ty Bergstrom
-// Tristan Digert
 // tail.c
-// CSCE 321
-// Oct 7, 2019
-// Solution to homework 2 part 1
+// Ty Bergstrom
 // to run this program use the following commands:
 // gcc head.c
 // gcc -o head head.c

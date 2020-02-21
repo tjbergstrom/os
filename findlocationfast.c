@@ -1,9 +1,5 @@
 // findlocationfast.c
 // Ty Bergstrom
-// Tristan Digert
-// CSCE 321
-// October 1, 2019
-// Solution to Homework Assignment #2 Part 2
 // to compile and run this program enter the following commands:
 // gcc findlocation.c
 // gcc -o findlocationfast findlocationfast.c

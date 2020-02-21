@@ -1,9 +1,5 @@
-// Ty Bergstrom
-// Tristan Digert
 // pipeobserver.c
-// CSCE 321
-// Oct 7, 2019
-// Solution to homework 2 part 4
+// Ty Bergstrom
 // to compile and run this program enter the following commands:
 // gcc pipeobserver.c
 // gcc -o pipeobserver pipeobserver.c

@@ -1,8 +1,5 @@
 // implementation.c
 // Ty Bergstrom
-// CSCE 321
-// November 3, 2019
-// Solution to Homework Assignment #3
 // implement malloc(), calloc(), realloc(), and free()
 
 

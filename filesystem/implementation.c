@@ -1,7 +1,5 @@
 // implementation.c
 // Ty Bergstrom
-// CSCE 321
-// HW4
 // Write a filesystem in userspace impementation
 
 // compile:
